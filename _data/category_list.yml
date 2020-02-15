@@ -1,12 +1,12 @@
 #This file defines all the categories you 
 
 
-getting-started:
+ambition:
   name: Ambition
   description: Welcome to Odin, time to get started
-using-odin:
+capital:
   name: Capital
   description: Welcome to Odin, time to get started
-customizing-odin:
+creation:
   name: Creation
   description: Welcome to Odin, time to get started
