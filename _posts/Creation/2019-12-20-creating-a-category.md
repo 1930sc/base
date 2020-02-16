@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Lean Startup Is For Mediocre Minds"
+title: "'Lean Startup' Is for Mediocre Minds"
 date: 2019-11-05 08:44:38 -0400
 category: creation
 author: mac
-short-description: Don't Find the Future, Create It
+short-description: 
 ---
 
 

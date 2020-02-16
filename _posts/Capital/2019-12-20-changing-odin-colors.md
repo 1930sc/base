@@ -4,7 +4,7 @@ title: "The Partners"
 date: 2019-11-05 08:44:38 -0400
 category: capital
 author: mac
-short-description: Set Odin colors to your brand colors
+short-description: 
 ---
 
 -----
