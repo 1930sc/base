@@ -14,7 +14,7 @@ All the successful outliners in the startup creation path were looked ridiculous
 
 I believe in creating the future with a strong vision, not finding it. 
 
-**## Don’t Believe In Luck On The Ridiculous Path**
+## Don’t Believe In Luck On The Ridiculous Path
 
 *> “When you chase success, you try to win at the same game as everyone else. You chase the current big winners by acting as the current big winners. In the effort to look or act like someone else, to be closer to their path, you forget that startup success lies at the end of paths not yet taken. When you chase success you fear failure and forget to do ridiculous things.” -[Phin Barnes](*~https://sneakerheadvc.com/walk-the-ridiculous-path-34b80bbff572~*)*
 
@@ -25,7 +25,7 @@ You can’t ‘find’ the future, you ‘bend’ the future. Nowadays, we just 
 Even you eventually build a successful company, there might be an upside you did not “upside”.
  
 
-**## Lean Startup(finding) vs. Fat Startup(forging)**
+## Lean Startup(finding) vs. Fat Startup(forging)
 
 *> There are a bunch of teams that have thoughtfully done hypothesis testing, pivoted when the metrics suggested it wasn’t working, and ultimately run out of money. I often wonder whether conviction on a given direction would have saved them. It’s not that the lean startup / MVP approach can’t work. There are plenty of success stories there. And it’s not like startups like Color didn’t raise a ton of money and ultimately completely fail.[Source](*~https://twitter.com/sachinrekhi/status/1158507212739960833~*)*
 
@@ -38,16 +38,16 @@ Instead, the visionaries create the macro (10x) jump and then ask customers for 
 Tell me a legendary movie director who will ask the audience first.
 
 
-**# Invented, not Discovered**
+# Invented, not Discovered
 
 Here are some examples:
 
 
-**### Instagram**
+### Instagram
 
 [Instagram delighted 1 billion users….but almost didn’t. The founder did talk to the users but did NOT listen to them.](~https://overcast.fm/+Vl3ssPn0E/04:13~)
 
-**### Snap**
+### Snap
 
 From [Listen to your customers but not too much](~https://www.chowyonghan.com/listen-to-your-customers-but-not-too-much/~) 
 
@@ -57,14 +57,14 @@ Here’s Spiegel’s secret: listen to customers, but not too much. Don’t take
 
 In the case of Snapchat, people didn’t want a send-to-all button. They wanted a way to communicate with all their friends at once. Spiegel used that information to invent a new social media format that every customer wanted, but no customer had asked for.
 
-**### Pinterest**
+### Pinterest
 
 From [Pinterest CEO](~http://allthingsd.com/20120313/pinterest-ceo-ben-silbermanns-lesson-for-start-ups-go-your-own-way/~)
 
 “The hard part about that idea of ‘minimum viable product,’ for me, is you don’t know what ‘minimum’ is, and you don’t know what ‘viable’ is.” In the early days, Pinterest had “catastrophically small numbers,” Silbermann said. Nine months after launch, the site counted 10,000 users, with few of them active on a daily basis. Silbermann said he recently picked up Eric Ries’s “The Lean Startup,” and was grateful he didn’t read it at the time, because it might have convinced him to give up at that point.” 
 
 
-**### Superhuman**
+### Superhuman
 
 From [FirtRound Review, CEO of Superhuman](~https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/~)
 
