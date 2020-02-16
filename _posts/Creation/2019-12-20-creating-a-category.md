@@ -24,7 +24,7 @@ You can’t ‘find’ the future, you ‘bend’ the future. Nowadays, we just 
 Even you eventually build a successful company, there might be an upside you did not “upside”.
  
 
-## Lean Startup(finding) vs. Fat Startup(forging)
+## Lean Startup(Finding) vs. Fat Startup(Forging)
 
 *> There are a bunch of teams that have thoughtfully done hypothesis testing, pivoted when the metrics suggested it wasn’t working, and ultimately run out of money. I often wonder whether conviction on a given direction would have saved them. It’s not that the lean startup / MVP approach can’t work. There are plenty of success stories there. And it’s not like startups like Color didn’t raise a ton of money and ultimately completely fail.[Source](*~https://twitter.com/sachinrekhi/status/1158507212739960833~*)*
 
